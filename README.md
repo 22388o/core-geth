@@ -31,8 +31,8 @@ Networks supported by the respective go-ethereum packaged `geth` program.
 |        | :handshake:       | Kotti (Geth+Parity ETC PoA Testnet)   | :heavy_check_mark:                                       |                      |
 |        | :handshake:       | Kovan (Parity-only ETH PoA Testnet)   |                                                          |                      |
 |        |                   | Tobalaba (EWF Testnet)                |                                                          |                      |
-|        |                   | Ephemeral development PoA network     | :heavy_check_mark:                                       | :heavy_check_mark:   |
-| MINTME | :zap:             | MintMe.com Coin                       | :heavy_check_mark:                                       |                      |
+|  LBTC  |                   |lightning Network + Ethereum (Pos+DC)  | :heavy_check_mark:                                       | :heavy_check_mark:   |
+| MINTME | :zap:             | MintMe.com Coin                       | :heavy_check_mark:  |                      |
 
 - :zap: = __Proof of Work__
 - :handshake: = __Proof of Authority__
